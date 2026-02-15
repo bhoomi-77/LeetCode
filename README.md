@@ -25,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/bhoomi-77/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/bhoomi-77/LeetCode/tree/master/0101-symmetric-tree) |
+## Array
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/bhoomi-77/LeetCode/tree/master/0118-pascals-triangle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/bhoomi-77/LeetCode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->

@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/bhoomi-77/LeetCode/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/bhoomi-77/LeetCode/tree/master/0050-powx-n) |
 ## Tree
 |  |
 | ------- |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhoomi-77/LeetCode/tree/master/0001-two-sum) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/bhoomi-77/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/bhoomi-77/LeetCode/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/bhoomi-77/LeetCode/tree/master/0118-pascals-triangle) |
+| [0217-contains-duplicate](https://github.com/bhoomi-77/LeetCode/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -42,8 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhoomi-77/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/bhoomi-77/LeetCode/tree/master/0217-contains-duplicate) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/bhoomi-77/LeetCode/tree/master/0050-powx-n) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/bhoomi-77/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->

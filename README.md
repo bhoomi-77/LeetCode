@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bhoomi-77/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/bhoomi-77/LeetCode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/bhoomi-77/LeetCode/tree/master/0050-powx-n) |
 ## Tree
@@ -47,9 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bhoomi-77/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/bhoomi-77/LeetCode/tree/master/0050-powx-n) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/bhoomi-77/LeetCode/tree/master/0217-contains-duplicate) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/bhoomi-77/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

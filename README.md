@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhoomi-77/LeetCode/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/bhoomi-77/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/bhoomi-77/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/bhoomi-77/LeetCode/tree/master/0219-contains-duplicate-ii) |
 ## Recursion
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/bhoomi-77/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/bhoomi-77/LeetCode/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->

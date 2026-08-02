@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/bhoomi-77/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/bhoomi-77/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0485-max-consecutive-ones](https://github.com/bhoomi-77/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/bhoomi-77/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bhoomi-77/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhoomi-77/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/bhoomi-77/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/bhoomi-77/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/bhoomi-77/LeetCode/tree/master/0383-ransom-note) |
+| [0560-subarray-sum-equals-k](https://github.com/bhoomi-77/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Recursion
 |  |
 | ------- |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/bhoomi-77/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bhoomi-77/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/bhoomi-77/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/bhoomi-77/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->

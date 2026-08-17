@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/bhoomi-77/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/bhoomi-77/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/bhoomi-77/LeetCode/tree/master/0383-ransom-note) |
+| [1021-remove-outermost-parentheses](https://github.com/bhoomi-77/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/bhoomi-77/LeetCode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/bhoomi-77/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Counting
@@ -178,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/bhoomi-77/LeetCode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bhoomi-77/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/bhoomi-77/LeetCode/tree/master/0704-binary-search) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/bhoomi-77/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/bhoomi-77/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->

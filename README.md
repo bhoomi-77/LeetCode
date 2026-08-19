@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/bhoomi-77/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bhoomi-77/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/bhoomi-77/LeetCode/tree/master/0704-binary-search) |
+| [0888-fair-candy-swap](https://github.com/bhoomi-77/LeetCode/tree/master/0888-fair-candy-swap) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bhoomi-77/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhoomi-77/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/bhoomi-77/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/bhoomi-77/LeetCode/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/bhoomi-77/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0888-fair-candy-swap](https://github.com/bhoomi-77/LeetCode/tree/master/0888-fair-candy-swap) |
 ## Recursion
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/bhoomi-77/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/bhoomi-77/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/bhoomi-77/LeetCode/tree/master/0242-valid-anagram) |
+| [0888-fair-candy-swap](https://github.com/bhoomi-77/LeetCode/tree/master/0888-fair-candy-swap) |
 ## Linked List
 |  |
 | ------- |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/bhoomi-77/LeetCode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bhoomi-77/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/bhoomi-77/LeetCode/tree/master/0704-binary-search) |
+| [0888-fair-candy-swap](https://github.com/bhoomi-77/LeetCode/tree/master/0888-fair-candy-swap) |
 ## Stack
 |  |
 | ------- |

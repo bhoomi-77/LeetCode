@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/bhoomi-77/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/bhoomi-77/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/bhoomi-77/LeetCode/tree/master/0383-ransom-note) |
+| [0796-rotate-string](https://github.com/bhoomi-77/LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/bhoomi-77/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/bhoomi-77/LeetCode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/bhoomi-77/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -193,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/bhoomi-77/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/bhoomi-77/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->

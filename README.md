@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/bhoomi-77/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/bhoomi-77/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/bhoomi-77/LeetCode/tree/master/0509-fibonacci-number) |
+| [3024-type-of-triangle](https://github.com/bhoomi-77/LeetCode/tree/master/3024-type-of-triangle) |
 ## Tree
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bhoomi-77/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/bhoomi-77/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhoomi-77/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3024-type-of-triangle](https://github.com/bhoomi-77/LeetCode/tree/master/3024-type-of-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/bhoomi-77/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/bhoomi-77/LeetCode/tree/master/0242-valid-anagram) |
 | [0888-fair-candy-swap](https://github.com/bhoomi-77/LeetCode/tree/master/0888-fair-candy-swap) |
+| [3024-type-of-triangle](https://github.com/bhoomi-77/LeetCode/tree/master/3024-type-of-triangle) |
 ## Linked List
 |  |
 | ------- |
@@ -216,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/bhoomi-77/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/bhoomi-77/LeetCode/tree/master/0342-power-of-four) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/bhoomi-77/LeetCode/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->

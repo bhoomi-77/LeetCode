@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/bhoomi-77/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/bhoomi-77/LeetCode/tree/master/0509-fibonacci-number) |
 | [3024-type-of-triangle](https://github.com/bhoomi-77/LeetCode/tree/master/3024-type-of-triangle) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/bhoomi-77/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Tree
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/bhoomi-77/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhoomi-77/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3024-type-of-triangle](https://github.com/bhoomi-77/LeetCode/tree/master/3024-type-of-triangle) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/bhoomi-77/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |

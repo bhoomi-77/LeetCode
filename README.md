@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/bhoomi-77/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/bhoomi-77/LeetCode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/bhoomi-77/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2390-removing-stars-from-a-string](https://github.com/bhoomi-77/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/bhoomi-77/LeetCode/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/bhoomi-77/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhoomi-77/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2390-removing-stars-from-a-string](https://github.com/bhoomi-77/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Matrix
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhoomi-77/LeetCode/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/bhoomi-77/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/bhoomi-77/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |

@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bhoomi-77/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/bhoomi-77/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhoomi-77/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/bhoomi-77/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3024-type-of-triangle](https://github.com/bhoomi-77/LeetCode/tree/master/3024-type-of-triangle) |
 | [3483-unique-3-digit-even-numbers](https://github.com/bhoomi-77/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/bhoomi-77/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/bhoomi-77/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhoomi-77/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/bhoomi-77/LeetCode/tree/master/0509-fibonacci-number) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/bhoomi-77/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Hash Table
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/bhoomi-77/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bhoomi-77/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/bhoomi-77/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/bhoomi-77/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/bhoomi-77/LeetCode/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/bhoomi-77/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bhoomi-77/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/bhoomi-77/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## String Matching
 |  |
 | ------- |

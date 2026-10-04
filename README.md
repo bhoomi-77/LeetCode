@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/bhoomi-77/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/bhoomi-77/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/bhoomi-77/LeetCode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/bhoomi-77/LeetCode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/bhoomi-77/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0888-fair-candy-swap](https://github.com/bhoomi-77/LeetCode/tree/master/0888-fair-candy-swap) |
 | [3483-unique-3-digit-even-numbers](https://github.com/bhoomi-77/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/bhoomi-77/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/bhoomi-77/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/bhoomi-77/LeetCode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/bhoomi-77/LeetCode/tree/master/0389-find-the-difference) |
 | [0888-fair-candy-swap](https://github.com/bhoomi-77/LeetCode/tree/master/0888-fair-candy-swap) |
 | [1200-minimum-absolute-difference](https://github.com/bhoomi-77/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [3024-type-of-triangle](https://github.com/bhoomi-77/LeetCode/tree/master/3024-type-of-triangle) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/bhoomi-77/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/bhoomi-77/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/bhoomi-77/LeetCode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/bhoomi-77/LeetCode/tree/master/0389-find-the-difference) |
 | [0796-rotate-string](https://github.com/bhoomi-77/LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/bhoomi-77/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bhoomi-77/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/bhoomi-77/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/bhoomi-77/LeetCode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/bhoomi-77/LeetCode/tree/master/0389-find-the-difference) |
 ## Polygons
 |  |
 | ------- |

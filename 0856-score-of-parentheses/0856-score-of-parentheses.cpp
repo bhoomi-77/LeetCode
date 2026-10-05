@@ -2,22 +2,22 @@ class Solution {
 public:
     int scoreOfParentheses(string s) {
         stack<int>st;
-        int res = 0;
+        int result = 0;
 
         for(char ch : s) {
 
             if(ch == '(') {
-                st.push(res);
-                res = 0;
+                st.push(result);
+                result = 0;
             }
 
             else {
-                res = st.top() + max(res * 2, 1);
+                result = st.top() + max(result * 2, 1);
                 st.pop();
             }
         }
 
-        return res;
+        return result;
    
     }
 };

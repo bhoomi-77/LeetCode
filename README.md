@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/bhoomi-77/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/bhoomi-77/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/bhoomi-77/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/bhoomi-77/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/bhoomi-77/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0888-fair-candy-swap](https://github.com/bhoomi-77/LeetCode/tree/master/0888-fair-candy-swap) |
 | [3483-unique-3-digit-even-numbers](https://github.com/bhoomi-77/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/bhoomi-77/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Recursion
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/bhoomi-77/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [3024-type-of-triangle](https://github.com/bhoomi-77/LeetCode/tree/master/3024-type-of-triangle) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/bhoomi-77/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/bhoomi-77/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Linked List
 |  |
 | ------- |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bhoomi-77/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bhoomi-77/LeetCode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/bhoomi-77/LeetCode/tree/master/0383-ransom-note) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/bhoomi-77/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -209,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/bhoomi-77/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhoomi-77/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/bhoomi-77/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/bhoomi-77/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Matrix
 |  |
 | ------- |
@@ -276,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/bhoomi-77/LeetCode/tree/master/0912-sort-an-array) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/bhoomi-77/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Merge Sort
 |  |
 | ------- |
@@ -296,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/bhoomi-77/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Ordered Set
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/bhoomi-77/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 <!---LeetCode Topics End-->

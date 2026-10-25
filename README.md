@@ -28,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/bhoomi-77/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/bhoomi-77/LeetCode/tree/master/0101-symmetric-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/bhoomi-77/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [1254-number-of-closed-islands](https://github.com/bhoomi-77/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/bhoomi-77/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/bhoomi-77/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/bhoomi-77/LeetCode/tree/master/0101-symmetric-tree) |
+| [1254-number-of-closed-islands](https://github.com/bhoomi-77/LeetCode/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/bhoomi-77/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0912-sort-an-array](https://github.com/bhoomi-77/LeetCode/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/bhoomi-77/LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [1254-number-of-closed-islands](https://github.com/bhoomi-77/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bhoomi-77/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/bhoomi-77/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhoomi-77/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/bhoomi-77/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bhoomi-77/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/bhoomi-77/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [1254-number-of-closed-islands](https://github.com/bhoomi-77/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/bhoomi-77/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Prefix Sum
 |  |
@@ -306,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/bhoomi-77/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/bhoomi-77/LeetCode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->

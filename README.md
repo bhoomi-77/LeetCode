@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/bhoomi-77/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/bhoomi-77/LeetCode/tree/master/0101-symmetric-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/bhoomi-77/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/bhoomi-77/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/bhoomi-77/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/bhoomi-77/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/bhoomi-77/LeetCode/tree/master/0101-symmetric-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/bhoomi-77/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/bhoomi-77/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1254-number-of-closed-islands](https://github.com/bhoomi-77/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/bhoomi-77/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/bhoomi-77/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/bhoomi-77/LeetCode/tree/master/0101-symmetric-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/bhoomi-77/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1254-number-of-closed-islands](https://github.com/bhoomi-77/LeetCode/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
@@ -43,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/bhoomi-77/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/bhoomi-77/LeetCode/tree/master/0101-symmetric-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/bhoomi-77/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/bhoomi-77/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/bhoomi-77/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Array
 |  |

@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/bhoomi-77/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/bhoomi-77/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/bhoomi-77/LeetCode/tree/master/0509-fibonacci-number) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/bhoomi-77/LeetCode/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [3024-type-of-triangle](https://github.com/bhoomi-77/LeetCode/tree/master/3024-type-of-triangle) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/bhoomi-77/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Tree
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/bhoomi-77/LeetCode/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/bhoomi-77/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Ordered Set
 |  |

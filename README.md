@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/bhoomi-77/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bhoomi-77/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/bhoomi-77/LeetCode/tree/master/0704-binary-search) |
+| [0746-min-cost-climbing-stairs](https://github.com/bhoomi-77/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0888-fair-candy-swap](https://github.com/bhoomi-77/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0912-sort-an-array](https://github.com/bhoomi-77/LeetCode/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/bhoomi-77/LeetCode/tree/master/1200-minimum-absolute-difference) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/bhoomi-77/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhoomi-77/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/bhoomi-77/LeetCode/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/bhoomi-77/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/bhoomi-77/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Hash Table
 |  |

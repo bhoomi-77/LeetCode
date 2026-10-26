@@ -5,7 +5,7 @@ public:
         while(target != 1){
             if(maxDoubles == 0) return steps + target - 1;
             
-            if(target&1){
+            if (target % 2 == 1) {
                 target--;
             }else{
                 target /= 2;

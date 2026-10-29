@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/bhoomi-77/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhoomi-77/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/bhoomi-77/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2418-sort-the-people](https://github.com/bhoomi-77/LeetCode/tree/master/2418-sort-the-people) |
 | [3024-type-of-triangle](https://github.com/bhoomi-77/LeetCode/tree/master/3024-type-of-triangle) |
 | [3483-unique-3-digit-even-numbers](https://github.com/bhoomi-77/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/bhoomi-77/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/bhoomi-77/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/bhoomi-77/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0888-fair-candy-swap](https://github.com/bhoomi-77/LeetCode/tree/master/0888-fair-candy-swap) |
+| [2418-sort-the-people](https://github.com/bhoomi-77/LeetCode/tree/master/2418-sort-the-people) |
 | [3483-unique-3-digit-even-numbers](https://github.com/bhoomi-77/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/bhoomi-77/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Recursion
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/bhoomi-77/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0912-sort-an-array](https://github.com/bhoomi-77/LeetCode/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/bhoomi-77/LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [2418-sort-the-people](https://github.com/bhoomi-77/LeetCode/tree/master/2418-sort-the-people) |
 | [3024-type-of-triangle](https://github.com/bhoomi-77/LeetCode/tree/master/3024-type-of-triangle) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/bhoomi-77/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/bhoomi-77/LeetCode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/bhoomi-77/LeetCode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/bhoomi-77/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2390-removing-stars-from-a-string](https://github.com/bhoomi-77/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [2418-sort-the-people](https://github.com/bhoomi-77/LeetCode/tree/master/2418-sort-the-people) |
 | [3136-valid-word](https://github.com/bhoomi-77/LeetCode/tree/master/3136-valid-word) |
 ## Counting
 |  |

@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/bhoomi-77/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2418-sort-the-people](https://github.com/bhoomi-77/LeetCode/tree/master/2418-sort-the-people) |
 | [3024-type-of-triangle](https://github.com/bhoomi-77/LeetCode/tree/master/3024-type-of-triangle) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/bhoomi-77/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/bhoomi-77/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/bhoomi-77/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/bhoomi-77/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
